@@ -4,7 +4,6 @@ https://github.com/OpenWaterAnalytics/EPANET.git
 ## build script
 ```
 $ git clone https://github.com/OpenWaterAnalytics/EPANET.git
-$ mkdir build
 $ cd .\EPANET\
 $ mkdir build
 $ cd .\build\
